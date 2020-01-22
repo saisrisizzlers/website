@@ -1,0 +1,2 @@
+FROM saisrisizzlers/webapp
+ADD . /var/www/html
